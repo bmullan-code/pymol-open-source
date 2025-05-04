@@ -16,6 +16,8 @@ See [INSTALL](INSTALL).
 
 See [DEVELOPERS](DEVELOPERS).
 
+Updated added by bmullan-code
+
 ## License
 
 Copyright (c) [Schrodinger, LLC](https://www.schrodinger.com/)
